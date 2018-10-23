@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleTranslate</string>
+    <string name="translate">Translate</string>
+    <string name="cet4">CET4</string>
+    <string name="cet6">CET6</string>
+</resources>
